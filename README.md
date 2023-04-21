@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm an agile application developer currently working in IBM.
+
+JRSS include:
+ - Java Backend developer, mostly developing Java Batches. I utilize Springboot/SpringBatch framework in a Redhat openshift platform.
+ - Salesforce beginner, i attended an IBM bootcamp and passed my 
+ - Mainframe modernization developer/beginner using VSCode as IDE, Jenkins for CI/CD pipeline. I was so excited to learn and implement mainframe modernization, I even did a proof of concept on how we can leverage Mainframe while using modern tools, like VSCode/Rational Tool Suites/UrbanCode Deploy/Jenkins, i presented this proof of concept to some mainframe projects in IBM Philippines but sadly, they were not prepared to be awesome :( .
+ - Mainframe developer using PL/I, COBOL, JCL, Easytrieve, IMS, DB2.
+
 <!--
 **krondina/krondina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
