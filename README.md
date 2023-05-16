@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an agile application developer currently working in IBM.
+I'm currently a java application developer currently working in an agile environment at IBM.
 
 JRSS include:
  - Java Backend developer, mostly developing Java Batches. I utilize Springboot/SpringBatch framework in a Redhat openshift platform.
