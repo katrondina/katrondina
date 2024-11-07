@@ -3,8 +3,9 @@
 I'm currently a java application developer working in an agile environment at IBM.
 
 JRSS include:
- - dbt/Snowflake enthusiast. I'm currently working on dbt and Snowflake magic.
- - Java Backend developer, mostly developing Java Batches. I utilize Springboot/SpringBatch framework in a Redhat openshift platform.
+ - AI/ML enthusiast, I'm currently trying to be an AI/ML Engineer. Currently working on models that forecasts call volumes and average handle time for call center agents and another app that serves as gateway for calls to be routed or products to be recommended to the caller.
+ - dbt/Snowflake Data Engineer
+ - Java Backend API Developer, mostly developing Java Batches. I utilize Springboot/SpringBatch framework in a Redhat openshift platform.
  - Salesforce beginner, i attended an IBM bootcamp and passed my case study.
  - Mainframe modernization developer/beginner using VSCode as IDE, Jenkins for CI/CD pipeline. I was so excited to learn and implement mainframe modernization, I even did a proof of concept on how we can leverage Mainframe while using modern tools, like VSCode/Rational Tool Suites/UrbanCode Deploy/Jenkins, i presented this proof of concept to some mainframe projects in IBM Philippines but sadly, they were not prepared to be awesome :( .
  - Mainframe developer using PL/I, COBOL, JCL, Easytrieve, IMS, DB2. I've worked on awesome projects, i.e. IBM Internal retail project where we developed and maintain PL/1 modules during migration and transition of products from IBM to Lenovo. Also worked on two well known insurance projects, one healthcare insurance where we migrated COBOL, PL/1, IMS,DB2 and other application from old instance of mainframe to a more modernized version of mainframe zOS. The other insurance project caters to military and family of military, we developed and maintain application which handles member data.
