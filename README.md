@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm currently a java application developer working in an agile environment at IBM.
+I'm currently an IBM Developer.
 
-JRSS include:
  - AI/ML enthusiast, I'm currently trying to be an AI/ML Engineer. Currently working on models that forecasts call volumes and average handle time for call center agents and another app that serves as gateway for calls to be routed or products to be recommended to the caller.
  - dbt/Snowflake Data Engineer
  - Java Backend API Developer, mostly developing Java Batches. I utilize Springboot/SpringBatch framework in a Redhat openshift platform.
