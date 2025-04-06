@@ -2,7 +2,7 @@
 
 I'm currently an IBM Developer.
 
- - AI/ML enthusiast, I'm currently trying to be an AI/ML Engineer. Currently working on models that forecasts call volumes and average handle time for call center agents and another app that serves as gateway for calls to be routed or products to be recommended to the caller.
+ - AI/ML enthusiast, I'm currently trying to be an AI/ML Engineer. Working on models for contact center tech.
  - dbt/Snowflake Data Engineer
  - Java Backend API Developer, mostly developing Java Batches. I utilize Springboot/SpringBatch framework in a Redhat openshift platform.
  - Salesforce beginner, i attended an IBM bootcamp and passed my case study.
